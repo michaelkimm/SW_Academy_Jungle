@@ -1,21 +1,30 @@
 * {
-    font-family: 'Black Han Sans', sans-serif;
-}
-.log-in-image {
-    background-image: url('https://www.ancient-origins.net/sites/default/files/field/image/Agesilaus-II-cover.jpg');
-    background-size: cover;
-    background-position: center;
-    border-radius: 10px;
-
-    width: 300px;
-    height: 200px;
-
-    color: white;
-    text-align: center;
-    padding-top: 40px;
+    font-family: 'Stylish', sans-serif;
 }
 
-#log-in {
-    width: 400px;
-    margin: auto;
+.card-page {
+    width: 900px;
+
+    margin: 10px auto;
 }
+
+.my-form {
+    width: 500px;
+    /* top left bottom right */
+    margin: 10px auto 30px auto;
+
+    border: 4px solid black;
+    border-radius: 5px;
+
+    padding: 25px;
+}
+
+.card-title {
+    color: lightskyblue;
+}
+
+.comment {
+    color:mediumblue;
+    font-weight: bold;
+}
+
